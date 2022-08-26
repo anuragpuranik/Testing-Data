@@ -1,0 +1,11 @@
+		Integretion Testing
+		====================
+
+1) Incremental : 
+	i) Top-Down Approach
+	ii)Bottom-up Approach
+	iii) Hybrid/Sandwich/bi-directional
+
+
+2) Non-incremental
+	iv) System integration testing/big-bang

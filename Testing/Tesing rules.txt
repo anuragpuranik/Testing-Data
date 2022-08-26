@@ -1,0 +1,11 @@
+
+Product Specification(SRS+SDD) Vs Software
+-------------------------------------------
+1)S/w doesn't do something that product specification says
+ it should do.
+2)S/w does something that product specification says 
+it should not do.
+3)S/w does something that is not mentioned in product specification.
+4)S/w does something that is not mentioned in product spe.but 
+should mention.
+5)S/w is very cirtical or complicated to use.(not user friendly) 

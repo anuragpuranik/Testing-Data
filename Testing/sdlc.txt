@@ -1,0 +1,28 @@
+SDLC(S/w Dev Life Cycle)
+==========================
+0) Acquiring the domain knowledge.
+1) Requirement Gathering
+--Functionlities, Req, Expectations, Interview,Survey forms,
+onsite observation,documents collection
+Analysis:
+Team Preparation: 1 Team mgr 4 Team lead 2 analyst 6 prog
+Effort estimation : cost estimation
+FRS/CRS/BRS+SRS+HRS+Networking=SRS(System/software req specification)
+
+USE CASE : 
+
+  			output : SRS(System req specification)
+2) Design : input : SRS
+BACKEND-database 
+UML Diagrams : E-R Dig,Use Case , Flow charts, data flow dig(DFD),
+process charts, class dig
+front-end : Screen , Report , outputs (doc, print, task)
+
+     output : SDD(sys Design Description)
+
+3) Coding : coding stand.
+		output : Software
+
+4) Testing(QC): variance b/w exp output & actual output
+5) Release/Deployment : Release testing
+6) MAint.....

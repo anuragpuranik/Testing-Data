@@ -1,0 +1,19 @@
+		System Testing
+	    ========================
+-Smoke & Sanity Testing
+-Re-testing & Regression
+- Ad-hoc or Risk testing
+   - monkey & chimpanzee
+   - Pair testing
+   - buddy testing
+   - exploratory
+
+Functional(Impact on functionality)	Non-Functional(Impact on User)
+=================================	===============================
+GUI Coverage				GUI/cosmetic/
+Error handling Testing			look n feel
+Input/output/Calculation		Usability
+Database Testing			Performance
+Security Testing			--load & stress /volume & stress/
+Installation/Deployment/		Endurance Test/spike(Fluctuation)/bandwidth
+uninstallation				localization/internationalization

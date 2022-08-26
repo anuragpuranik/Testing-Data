@@ -1,0 +1,11 @@
+Black Box Testing
+--------------------
+
+1) Requirement based Matrix
+2) Positive and negative testing
+3) Equivalence class Partioning(ECP)
+4) Boundary Value Analysis(BVA)
+5) Documentation Testing
+6) Domain Testing
+7) Decision Table
+8) state-based testing
